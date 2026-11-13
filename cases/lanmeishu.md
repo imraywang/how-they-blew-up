@@ -21,7 +21,7 @@ Anyone can use the AI tools; this account wins on premise and taste: a story you
 
 - What it is: Shame, an AI-generated widescreen American high-school mystery series, one episode a week.
 - Who watches: Young viewers who like American dramas, romance and strong-female-lead stories.
-- How it earns: Not yet; for now it is an entry in the platform’s AI events.
+- How it earns: Episode 4 carries its first promoted link in the comments; before that it was an entry in the platform’s AI events.
 - How it broke out: The first episode of a new account got 47.0M views, and it gained 670K followers in a month.
 
 ## KPI

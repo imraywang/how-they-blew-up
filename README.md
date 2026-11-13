@@ -11,7 +11,7 @@ Each case file is plain Markdown, written to be read by people and by AI agents.
 ## Free to read in full
 
 - [How to fix your 𝕏 account in 1 day](reports/x-growth.md): the X growth report, with every chart. [Web version](https://blewup.co/reports/x-growth/?utm_source=github&utm_medium=repo)
-- [GreenBroRants](cases/greenbrorants.md): the one case that is free in full. [Web version](https://blewup.co/cases/greenbrorants/?utm_source=github&utm_medium=repo)
+- [Dan Koe](cases/dankoe.md): the one case that is free in full. [Web version](https://blewup.co/cases/dankoe/?utm_source=github&utm_medium=repo)
 
 ## Cases
 

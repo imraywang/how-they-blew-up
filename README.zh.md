@@ -11,7 +11,7 @@ English: [README.md](README.md)
 ## 全文免费
 
 - [如何用 1 天，把你的 𝕏 号做对](reports/x-growth.zh.md)：X 起号规律报告，含全部配图。[网页版](https://blewup.co/zh/reports/x-growth/?utm_source=github&utm_medium=repo)
-- [GreenBroRants](cases/greenbrorants.zh.md)：唯一全文免费的案例。[网页版](https://blewup.co/zh/cases/greenbrorants/?utm_source=github&utm_medium=repo)
+- [Dan Koe](cases/dankoe.zh.md)：唯一全文免费的案例。[网页版](https://blewup.co/zh/cases/dankoe/?utm_source=github&utm_medium=repo)
 
 ## 案例
 
@@ -33,7 +33,7 @@ English: [README.md](README.md)
 | [Becca Bloom](cases/becca-bloom.zh.md) | TikTok | 630 万 | 9 | 早早地、朴素地介绍自己，再把观众好奇的那种生活做成几个能反复点播的格式：开箱、「陪我摆早餐」、一场婚礼、回应点播。 | [看拆解](https://blewup.co/zh/cases/becca-bloom/?utm_source=github&utm_medium=repo) |
 | [The Little Richeys](cases/the-little-richeys.zh.md) | YouTube | 1100 万 | 39 | 每条只问一个一句话能懂的问题（$1 vs $500、能不能找到、能不能偷偷带进去），全家出镜演完，再配成几十种语言发全球。 | [看拆解](https://blewup.co/zh/cases/the-little-richeys/?utm_source=github&utm_medium=repo) |
 | [观自](cases/guanzi.zh.md) | X | 1.07 万 | 2 | 开号第一篇长文先讲自己是谁、凭什么讲 AI；之后每天 7 条主帖、近 20 条回复，长文写 Obsidian、Claude Code 这些自己天天用的工具，同步到公众号。 | [看拆解](https://blewup.co/zh/cases/guanzi/?utm_source=github&utm_medium=repo) |
-| [星球档案馆](cases/xingqiu-danganguan.zh.md) | 小红书 | 19.5 万 | 22 | 固定一个 AI 外星人角色和一个真人搭档，做 3–5 分钟的竖屏科普；同一个工作室同时开 4 个号，选题在号之间互相复用，哪个题起量了，其他号当天就跟。 | [看拆解](https://blewup.co/zh/cases/xingqiu-danganguan/?utm_source=github&utm_medium=repo) |
+| [星球档案馆](cases/xingqiu-danganguan.zh.md) | 小红书 | 19.5 万 | 22 | 固定一个 AI 外星人角色和一个真人搭档，做 3–5 分钟的科普视频；同一个工作室同时开 4 个号，选题在号之间互相复用，哪个题起量了，其他号当天就跟。 | [看拆解](https://blewup.co/zh/cases/xingqiu-danganguan/?utm_source=github&utm_medium=repo) |
 | [Eian](cases/eian.zh.md) | X | 3.62 万 | 63 | 每周写一篇能照做的 AI 工具长文；押一个正热又能出作品的题材（用 Claude 做 AI 视频），先发作品，评论区问「怎么做的」多了，就把整套流程和提示词写成一篇长文。 | [看拆解](https://blewup.co/zh/cases/eian/?utm_source=github&utm_medium=repo) |
 | [Olivia Saad](cases/olivia-saad.zh.md) | TikTok | 60 万 | 528 | 挑一件通常是爸妈教的活，在真要修的房间里拍自己动手：开头说「要是你爸没教过你」，每拿起一件工具就报一次名字，结尾再说一遍同一句。 | [看拆解](https://blewup.co/zh/cases/olivia-saad/?utm_source=github&utm_medium=repo) |
 | [西西弗酒馆](cases/xixifu-jiuguan.zh.md) | 抖音 | 1.9 万 | 11 | 讲哲学和心理学的「心事」短片：标题是一句「你」开头的问句，画面是深色背景上暖金描边的人物剪影，开头就是一个具体场景；每条描述写「本视频由 Claude Opus 5.5 写代码制作」，一天发 2–5 条。 | [看拆解](https://blewup.co/zh/cases/xixifu-jiuguan/?utm_source=github&utm_medium=repo) |
@@ -80,7 +80,7 @@ English: [README.md](README.md)
 | [睿叔叔](cases/rui-shushu.zh.md) | 抖音 | 12.4 万 | 23 | 一个标题模板反复用（「超冷门但超赚钱的两个 X」）；停更两年后换题材讲 AI 工具，标题写清价格和结果（「一毛五一秒，还是 4K」），两三分钟实测给工作流。 | [看拆解](https://blewup.co/zh/cases/rui-shushu/?utm_source=github&utm_medium=repo) |
 | [老师好我叫何同学](cases/he-tongxue.zh.md) | B 站 | 1,306 万 | 583 | 把一个数码产品或一个问题拍成有叙事、有运镜的 5–10 分钟视频，宁可少发；盯住全社会都在讨论的那一天当天发；出名后用工作室做「为了 X，我们做了这个」的硬件项目。 | [看拆解](https://blewup.co/zh/cases/he-tongxue/?utm_source=github&utm_medium=repo) |
 | [红发魔女Amber](cases/hongfamonv-amber.zh.md) | 小红书 | 17.3 万 | 159 | 专讲打工人每天卡住的那一步：Word、Excel、PPT、排版，一句话或一个提示词解决，视频控制在一分钟内，让人收藏了以后会用。 | [看拆解](https://blewup.co/zh/cases/hongfamonv-amber/?utm_source=github&utm_medium=repo) |
-| [诸葛青人不错](cases/zhugeqing.zh.md) | 抖音 | 3,528 | 22 | 用 Claude Code 写代码做歌词动效 MV：一个字一个字按笔画出现、燃烧、旋转，配一首大家都会唱的老歌；每条在描述里写明工具、模型和这次改了什么。 | [看拆解](https://blewup.co/zh/cases/zhugeqing/?utm_source=github&utm_medium=repo) |
+| [诸葛青人不错](cases/zhugeqing.zh.md) | 抖音 | 3,528 | 22 | 用 Claude Code 写代码做歌词动效 MV：一个字一个字按笔画出现、燃烧、旋转，配一首大家都会唱的老歌；过半的描述里写明工具、模型，续集还写这次改了什么。 | [看拆解](https://blewup.co/zh/cases/zhugeqing/?utm_source=github&utm_medium=repo) |
 | [huangserva](cases/huangserva.zh.md) | X | 4.29 万 | 37 | 封号后马上开新号，先把老号的提示词和生图玩法重新发一遍接住老读者；然后跟着当下最热的 Agent 工具写长篇实操教程，回复量做到主帖的 4 倍以上。 | [看拆解](https://blewup.co/zh/cases/huangserva/?utm_source=github&utm_medium=repo) |
 | [Jeremy Bearimy](cases/jeremy-bearimy.zh.md) | YouTube | 5 万 | 31 | 固定一个卡通主角和一种第二人称讲法，每条只换一个「如果你能…」的设定，时长卡在 10 分半，一天一到两条；哪类设定起量就往那类多做，跟风续集一条比一条冷就换下一个设定。 | [看拆解](https://blewup.co/zh/cases/jeremy-bearimy/?utm_source=github&utm_medium=repo) |
 | [Solhawk](cases/solhawk.zh.md) | X | 2.75 万 | 6 | 选本来就有大流量的题材（天涯神贴、处世认知、孙子兵法类图帖），加网盘资源换关注，起号那几天每天发几十条；再把自述的涨粉成绩写进简介和引流帖，卖起号教程和训练营。 | [看拆解](https://blewup.co/zh/cases/solhawk/?utm_source=github&utm_medium=repo) |
